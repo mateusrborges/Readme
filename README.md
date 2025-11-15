@@ -1,12 +1,12 @@
 <div id="header" align="center">
   
-  <h1 align="center">
-  <img width="67" height="67" src="https://img.icons8.com/?size=100&id=QI0Dtwd6iPqW&format=png&color=000000" git/>
+<h1 align="center">
 
-  <img src=" https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&pause=1000&color=FFEE0A&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+Borges" style="margin-left: 30px;"/>
-      
-  <img width="67" height="67" src="https://img.icons8.com/?size=100&id=35734&format=png&color=000000"/>
-  </h1>
+    <img width="67" height="67" src="https://img.icons8.com/?size=100&id=QI0Dtwd6iPqW&format=png&color=000000" alt="git icon"/>
+    <img src=" https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&pause=1000&color=FFEE0A&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+Borges" style="margin-left: 30px;"/>
+    <img width="67" height="67" src="https://img.icons8.com/?size=100&id=35734&format=png&color=000000" alt="icon 2"/>
+
+</h1>
   
   <div id="badges">
     <a href="www.linkedin.com/in/mateusborges99">
