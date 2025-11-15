@@ -2,8 +2,9 @@
   
   <h1 align="center">
       <img width="67" height="67" src="https://img.icons8.com/?size=100&id=QI0Dtwd6iPqW&format=png&color=000000" git/>
-      &nbsp; &nbsp; &nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src=" https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&pause=1000&color=FFEE0A&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+Borges"/>
+      &nbsp;
       <img width="67" height="67" src="https://img.icons8.com/?size=100&id=35734&format=png&color=000000"/>
   </h1>
   
